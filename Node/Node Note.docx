@@ -1,0 +1,25 @@
+What is Node.js?
+Node.js is an open source Java script server side programming
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server
+
+REPL
+
+READ
+Eval
+Print
+Loop
+
+node-> Take to node command
+.exist-> take out from node command
+type null > index.js -> Create index.js file in the curent dir
+
+.editor -> goes to editor mode. D to finish, C to cancle.
+non- global module need to import
+signle thread & async
+
+npm install express
+
+Midleware
+modify the request & responce

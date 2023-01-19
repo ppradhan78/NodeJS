@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-sqlserver-get-started",
+  "version": "1.0.0",
+  "description": "Node js connect to sql server database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon api.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "2.8.1",
+    "express": "~4.0.0",
+    "mssql": "^6.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "sql",
+    "server"
+  ],
+  "author": "ppradhan",
+  "license": "ISC"
+}

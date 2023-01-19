@@ -1,0 +1,20 @@
+{
+  "name": "node-mongo-get-started",
+  "version": "1.0.0",
+  "description": "node js connect to mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongoDb"
+  ],
+  "author": "ppradhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  }
+}

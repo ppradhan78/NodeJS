@@ -1,0 +1,17 @@
+{
+  "name": "node-js-learning",
+  "version": "1.0.0",
+  "description": "node js get started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pppradhan",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
